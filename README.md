@@ -13,4 +13,4 @@ This project presents a Power BI dashboard designed to analyze retail store perf
 ## Tools Used  
 - **Power BI** – Data visualization  
 - **Excel/CSV** – Data source  
-- **SQL/Python (if applicable)** – Data preprocessing  
+- **SQL** – Data preprocessing  
